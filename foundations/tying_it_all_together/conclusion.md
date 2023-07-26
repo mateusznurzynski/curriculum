@@ -40,13 +40,7 @@ To help you make a decision, here are some perks of each technology:
   - Keeping the language consistent can help with writing consistent code across your entire application.
   - Allows you to do some cool things, like writing code that runs on both the browser and the server for optimization purposes.
 
-In the end, it doesn't matter which path you take. It's only important that you stick with it, and continue to hold onto the learner's mindset throughout your career. Not convinced? [Click here](https://medium.com/@bycdiaz/choosing-the-right-language-a-short-guide-on-how-not-to-ruin-your-career-2b353be1371).
-
-### Still can’t decide? Let the spinner settle your fate!
-
-<iframe src="https://wheeldecide.com/e.php?c1=Ruby+on+Rails&c2=Node&col=rgy&t=The+Odin+Project+Path+Wheel&time=7" sandbox="allow-scripts allow-same-origin" width="250" height="250" scrolling="no" frameborder="0"></iframe>
-
-Feel free to share the results in chat!
+In the end, just choose the JavaScript path like everyone else.
 
 Get ready, because this is only the beginning. Now it's time to delve deeper into the areas covered by Foundations. There are some fantastic projects in the courses that follow which will challenge you to the limit, but you'll come out the other side ready to go and make your mark in the programming world.
 
